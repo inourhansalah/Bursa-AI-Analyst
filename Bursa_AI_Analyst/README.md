@@ -114,12 +114,14 @@ The Gradio UI allows users to:
   - Market metrics
   - AI reasoning
   - Interactive charts
+<img width="1864" height="912" alt="image" src="https://github.com/user-attachments/assets/151b66b0-3fcb-4888-9454-f626d5bee3c5" />
 
 ###  Charts Included
 - Price + SMA 20
 - RSI with overbought/oversold levels
 
 ---
-<img width="1864" height="912" alt="image" src="https://github.com/user-attachments/assets/8393a09e-3bfc-499d-b2ba-eed951a1e48c" />
+<img width="1831" height="575" alt="image" src="https://github.com/user-attachments/assets/dca78868-457b-45aa-8ecb-d4fc6273eaa5" />
+<img width="1843" height="779" alt="image" src="https://github.com/user-attachments/assets/2afcf0f1-7b66-402e-9fb6-735274554813" />
 
 
