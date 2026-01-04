@@ -120,4 +120,6 @@ The Gradio UI allows users to:
 - RSI with overbought/oversold levels
 
 ---
+<img width="1864" height="912" alt="image" src="https://github.com/user-attachments/assets/8393a09e-3bfc-499d-b2ba-eed951a1e48c" />
+
 
